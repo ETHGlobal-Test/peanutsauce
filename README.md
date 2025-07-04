@@ -1,2 +1,2 @@
-# peanutsauce
+# peanut sauce
 Peanut sauce.
